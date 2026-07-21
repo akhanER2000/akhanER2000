@@ -35,11 +35,12 @@ What I do best: enter a field I don't yet know, learn it in depth, and ship a fi
 | **Medical-Aeronautic RAG Engine** | Dual-engine system (air-gapped RAG + ML) producing traceable medical-fitness verdicts with cited sources. Tuned to **0.65 recall** on the risk class. | Python · RAG · Ollama · scikit-learn | [Repo](https://github.com/akhanER2000/Local-RAG-medical-assistance-aeronautic) |
 | **Food Health Detector** | Binary healthy-food classifier built on a custom CNN over Food-101, with a Streamlit demo. | Python · TensorFlow · Computer Vision | [Repo](https://github.com/akhanER2000/FOOD-HEALTH-DETECTOR) · [Video](https://www.youtube.com/watch?v=7L1chgdvhEU) |
 | **InsightBoard** | Turns any CSV into a visual analytical report — 100% client-side, nothing leaves the browser. | JavaScript · React · Vite · Recharts | [Repo](https://github.com/akhanER2000/TOP2_InsightBoard_Generador_Reportes_Anal-ticos_Automatizados) · [Live demo](https://top-2-insight-board-generador-repor.vercel.app) |
+| **VR Chemistry Lab (3DLAB)** | Immersive VR chemistry lab for Meta Quest (Unity 6) so first-year students can practice safely before the real lab. Delivered; ~15 users. | Unity · C# · Meta Quest | [Repo](https://github.com/akhanER2000/3DLab-Environment-2025) |
 | **Command Center** | Personal productivity hub: projects, tasks, pomodoro and notes, on 8 Postgres tables with 9 RLS policies. | TypeScript · Next.js · Supabase | [Repo](https://github.com/akhanER2000/command-center-app) · [Live demo](https://command-center-app-sigma.vercel.app) |
 | **Smart Document Classifier** | Classifies documents with a multimodal LLM and exports structured results to Excel or Word. | Python · Flask · Groq · Llama | [Repo](https://github.com/akhanER2000/Clasificador-Inteligente-de-Documentos) · [Live demo](https://clasificador-inteligente-de-documen.vercel.app) |
 | **BMTSP Optimization** | Comparative study of four optimization approaches for the Bounded Multiple TSP over TSPLIB instances. | Python · NumPy · Pandas · CPLEX | [Repo](https://github.com/akhanER2000/BMTSP-OPTIMIZACION) |
 
-> Two more systems run in the real world but live in private repos: **PharmIQ** ([live](https://pharmiq.cl)) — a pharmacy platform in daily use by a pharmacist — and **AeroFit**, my capstone.
+> Some of my most recent work lives in **private repos** (available on request): **AeroFit** — my capstone, aeromedical-fitness evaluation with source-cited verdicts · **PharmIQ** ([live](https://pharmiq.cl)) — a pharmacy platform in daily use by a pharmacist · **SincroAI** ([live](https://sincro-ai.vercel.app)) · **B.L.A.S.T.** — a YouTube-scraping intelligence engine that mines Starter Story success cases against LATAM pain points to generate validated business ideas.
 
 ---
 
