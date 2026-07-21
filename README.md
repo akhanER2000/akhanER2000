@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://cs-portfolio-psi-topaz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0B0D?style=for-the-badge&logo=vercel&logoColor=C8A24A" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/akhan-espinoza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://huggingface.co/Akhan2000"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://huggingface.co/AkhanER2000"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="mailto:castrolorenzosegundo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
