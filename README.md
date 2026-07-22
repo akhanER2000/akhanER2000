@@ -101,8 +101,12 @@ Browse by topic, or check my [starred lists](https://github.com/akhanER2000?tab=
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhanER2000&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=C8A24A&text_color=F3EFE6&icon_color=C8A24A" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhanER2000&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=C8A24A&text_color=F3EFE6" alt="Top languages">
+  <a href="https://github.com/akhanER2000">
+    <img height="185" src="https://github-stats-extended.vercel.app/api?username=akhanER2000&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&hide_border=true&bg_color=0B0B0D&title_color=C8A24A&text_color=F3EFE6&icon_color=C8A24A" alt="GitHub stats">
+  </a>
+  <a href="https://github.com/akhanER2000?tab=repositories">
+    <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=akhanER2000&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0B0B0D&title_color=C8A24A&text_color=F3EFE6" alt="Top languages">
+  </a>
 </p>
 
 <p align="center"><i>Valparaíso, Chile · Open to work 2026–2027</i></p>
